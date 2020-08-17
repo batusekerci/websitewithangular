@@ -1,0 +1,18 @@
+{
+    "/dishes": {
+    "target": "http://localhost:3000",
+    "secure": false
+    },
+   
+  "/promotions":{
+    "target": "http://localhost:3000",
+    "secure": false},
+
+  "/leadership":{
+      "target": "http://localhost:3000",
+    "secure": false},
+
+  "/feedback":{
+      "target": "http://localhost:3000",
+    "secure": false}
+    }

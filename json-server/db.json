@@ -1,0 +1,673 @@
+{
+  "dishes": [
+    {
+      "id": "0",
+      "name": "Uthappizza",
+      "image": "images/uthappizza.png",
+      "category": "mains",
+      "featured": true,
+      "label": "Hot",
+      "price": "4.99",
+      "description": "A unique combination of Indian Uthappam (pancake) and Italian pizza, topped with Cerignola olives, ripe vine cherry tomatoes, Vidalia onion, Guntur chillies and Buffalo Paneer.",
+      "comments": [
+        {
+          "rating": 5,
+          "comment": "Imagine all the eatables, living in conFusion!",
+          "author": "John Lemon",
+          "date": "2012-10-16T17:57:28.556094Z"
+        },
+        {
+          "rating": 4,
+          "comment": "Sends anyone to heaven, I wish I could get my mother-in-law to eat it!",
+          "author": "Paul McVites",
+          "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+          "rating": 3,
+          "comment": "Eat it, just eat it!",
+          "author": "Michael Jaikishan",
+          "date": "2015-02-13T17:57:28.556094Z"
+        },
+        {
+          "rating": 4,
+          "comment": "Ultimate, Reaching for the stars!",
+          "author": "Ringo Starry",
+          "date": "2013-12-02T17:57:28.556094Z"
+        },
+        {
+          "rating": 2,
+          "comment": "It's your birthday, we're gonna party!",
+          "author": "25 Cent",
+          "date": "2011-12-02T17:57:28.556094Z"
+        },
+        {
+          "rating": 4,
+          "comment": "asds",
+          "author": "asd",
+          "date": "2020-08-13T14:18:31.745Z"
+        },
+        {
+          "rating": 5,
+          "comment": "SSDD",
+          "author": "ASD",
+          "date": "2020-08-16T12:09:10.131Z"
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Zucchipakoda",
+      "image": "images/zucchipakoda.png",
+      "category": "appetizer",
+      "featured": false,
+      "label": "",
+      "price": "1.99",
+      "description": "Deep fried Zucchini coated with mildly spiced Chickpea flour batter accompanied with a sweet-tangy tamarind sauce",
+      "comments": [
+        {
+          "rating": 5,
+          "comment": "Imagine all the eatables, living in conFusion!",
+          "author": "John Lemon",
+          "date": "2012-10-16T17:57:28.556094Z"
+        },
+        {
+          "rating": 4,
+          "comment": "Sends anyone to heaven, I wish I could get my mother-in-law to eat it!",
+          "author": "Paul McVites",
+          "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+          "rating": 3,
+          "comment": "Eat it, just eat it!",
+          "author": "Michael Jaikishan",
+          "date": "2015-02-13T17:57:28.556094Z"
+        },
+        {
+          "rating": 4,
+          "comment": "Ultimate, Reaching for the stars!",
+          "author": "Ringo Starry",
+          "date": "2013-12-02T17:57:28.556094Z"
+        },
+        {
+          "rating": 2,
+          "comment": "It's your birthday, we're gonna party!",
+          "author": "25 Cent",
+          "date": "2011-12-02T17:57:28.556094Z"
+        },
+        {
+          "rating": 5,
+          "comment": "asdsa",
+          "author": "asd",
+          "date": "2020-08-14T15:02:16.058Z"
+        },
+        {
+          "rating": 2,
+          "comment": "nop",
+          "author": "ttt",
+          "date": "2020-08-16T11:48:51.032Z"
+        },
+        {
+          "rating": 2,
+          "comment": "yu",
+          "author": "yuy",
+          "date": "2020-08-17T06:38:25.380Z"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Vadonut",
+      "image": "images/vadonut.png",
+      "category": "appetizer",
+      "featured": false,
+      "label": "New",
+      "price": "1.99",
+      "description": "A quintessential ConFusion experience, is it a vada or is it a donut?",
+      "comments": [
+        {
+          "rating": 5,
+          "comment": "Imagine all the eatables, living in conFusion!",
+          "author": "John Lemon",
+          "date": "2012-10-16T17:57:28.556094Z"
+        },
+        {
+          "rating": 4,
+          "comment": "Sends anyone to heaven, I wish I could get my mother-in-law to eat it!",
+          "author": "Paul McVites",
+          "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+          "rating": 3,
+          "comment": "Eat it, just eat it!",
+          "author": "Michael Jaikishan",
+          "date": "2015-02-13T17:57:28.556094Z"
+        },
+        {
+          "rating": 4,
+          "comment": "Ultimate, Reaching for the stars!",
+          "author": "Ringo Starry",
+          "date": "2013-12-02T17:57:28.556094Z"
+        },
+        {
+          "rating": 2,
+          "comment": "It's your birthday, we're gonna party!",
+          "author": "25 Cent",
+          "date": "2011-12-02T17:57:28.556094Z"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "ElaiCheese Cake",
+      "image": "images/elaicheesecake.png",
+      "category": "dessert",
+      "featured": false,
+      "label": "",
+      "price": "2.99",
+      "description": "A delectable, semi-sweet New York Style Cheese Cake, with Graham cracker crust and spiced with Indian cardamoms",
+      "comments": [
+        {
+          "rating": 5,
+          "comment": "Imagine all the eatables, living in conFusion!",
+          "author": "John Lemon",
+          "date": "2012-10-16T17:57:28.556094Z"
+        },
+        {
+          "rating": 4,
+          "comment": "Sends anyone to heaven, I wish I could get my mother-in-law to eat it!",
+          "author": "Paul McVites",
+          "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+          "rating": 3,
+          "comment": "Eat it, just eat it!",
+          "author": "Michael Jaikishan",
+          "date": "2015-02-13T17:57:28.556094Z"
+        },
+        {
+          "rating": 4,
+          "comment": "Ultimate, Reaching for the stars!",
+          "author": "Ringo Starry",
+          "date": "2013-12-02T17:57:28.556094Z"
+        },
+        {
+          "rating": 2,
+          "comment": "It's your birthday, we're gonna party!",
+          "author": "25 Cent",
+          "date": "2011-12-02T17:57:28.556094Z"
+        }
+      ]
+    }
+  ],
+  "promotions": [
+    {
+      "id": "0",
+      "name": "Weekend Grand Buffet",
+      "image": "images/buffet.png",
+      "featured": true,
+      "label": "New",
+      "price": "19.99",
+      "description": "Featuring mouthwatering combinations with a choice of five different salads, six enticing appetizers, six main entrees and five choicest desserts. Free flowing bubbly and soft drinks. All for just $19.99 per person "
+    }
+  ],
+  "leadership": [
+    {
+      "id": "0",
+      "name": "Peter Pan",
+      "image": "images/alberto.png",
+      "designation": "Chief Epicurious Officer",
+      "featured": false,
+      "abbr": "CEO",
+      "description": "Our CEO, Peter, credits his hardworking East Asian immigrant parents who undertook the arduous journey to the shores of America with the intention of giving their children the best future. His mother's wizardy in the kitchen whipping up the tastiest dishes with whatever is available inexpensively at the supermarket, was his first inspiration to create the fusion cuisines for which The Frying Pan became well known. He brings his zeal for fusion cuisines to this restaurant, pioneering cross-cultural culinary connections."
+    },
+    {
+      "id": "1",
+      "name": "Dhanasekaran Witherspoon",
+      "image": "images/alberto.png",
+      "designation": "Chief Food Officer",
+      "featured": false,
+      "abbr": "CFO",
+      "description": "Our CFO, Danny, as he is affectionately referred to by his colleagues, comes from a long established family tradition in farming and produce. His experiences growing up on a farm in the Australian outback gave him great appreciation for varieties of food sources. As he puts it in his own words, Everything that runs, wins, and everything that stays, pays!"
+    },
+    {
+      "id": "2",
+      "name": "Agumbe Tang",
+      "image": "images/alberto.png",
+      "designation": "Chief Taste Officer",
+      "featured": false,
+      "abbr": "CTO",
+      "description": "Blessed with the most discerning gustatory sense, Agumbe, our CFO, personally ensures that every dish that we serve meets his exacting tastes. Our chefs dread the tongue lashing that ensues if their dish does not meet his exacting standards. He lives by his motto, You click only if you survive my lick."
+    },
+    {
+      "id": "3",
+      "name": "Alberto Somayya",
+      "image": "images/alberto.png",
+      "designation": "Executive Chef",
+      "featured": true,
+      "abbr": "EC",
+      "description": "Award winning three-star Michelin chef with wide International experience having worked closely with whos-who in the culinary world, he specializes in creating mouthwatering Indo-Italian fusion experiences. He says, Put together the cuisines from the two craziest cultures, and you get a winning hit! Amma Mia!"
+    }
+  ],
+  "feedback": [
+    {
+      "firstname": "saxsax",
+      "lastname": "asx",
+      "telnum": "022332",
+      "email": "sx@asd.com",
+      "agree": false,
+      "contacttype": "None",
+      "message": "sxsa",
+      "id": 1
+    },
+    {
+      "firstname": "SA",
+      "lastname": "SAFA",
+      "telnum": "34",
+      "email": "asdasd@AASDs.com",
+      "agree": null,
+      "contacttype": null,
+      "message": "afa",
+      "id": 2
+    },
+    {
+      "firstname": "werew",
+      "lastname": "werwer",
+      "telnum": "043443",
+      "email": "asadasqqd@ss.com",
+      "agree": false,
+      "contacttype": "None",
+      "message": "asdsa",
+      "id": 3
+    },
+    {
+      "firstname": "sad",
+      "lastname": "sad",
+      "telnum": "032323",
+      "email": "asdasd@s.com",
+      "agree": false,
+      "contacttype": "None",
+      "message": "asdas",
+      "id": 4
+    },
+    {
+      "firstname": "asd",
+      "lastname": "asdas",
+      "telnum": "45345",
+      "email": "asdasd@saa.com",
+      "agree": false,
+      "contacttype": "None",
+      "message": "asdas",
+      "id": 5
+    },
+    {
+      "firstname": "asda",
+      "lastname": "asfasd",
+      "telnum": "0324",
+      "email": "asdasqqd@s.com",
+      "agree": false,
+      "contacttype": "None",
+      "message": "asdas",
+      "id": 6
+    },
+    {
+      "firstname": "dsf",
+      "lastname": "dfdsf",
+      "telnum": 0,
+      "email": "asdasd@saa.com",
+      "agree": false,
+      "contacttype": "None",
+      "message": "we",
+      "id": 7
+    },
+    {
+      "firstname": "dfd",
+      "lastname": "dfd",
+      "telnum": "06445",
+      "email": "asdasqqd@s.com",
+      "agree": false,
+      "contacttype": "None",
+      "message": "sdsd",
+      "id": 8
+    },
+    {
+      "firstname": "sadas",
+      "lastname": "asddddas",
+      "telnum": "0221",
+      "email": "asdasd@saa.com",
+      "agree": false,
+      "contacttype": "None",
+      "message": "asd",
+      "id": 9
+    },
+    {
+      "firstname": "asd",
+      "lastname": "asda",
+      "telnum": "03223",
+      "email": "asdasd@saa.com",
+      "agree": false,
+      "contacttype": "None",
+      "message": "asd",
+      "id": 10
+    },
+    {
+      "firstname": "asd",
+      "lastname": "asdasd",
+      "telnum": "023",
+      "email": "asdasd@saa.com",
+      "agree": false,
+      "contacttype": "None",
+      "message": "ads",
+      "id": 11
+    },
+    {
+      "firstname": "asdas",
+      "lastname": "NGNGXCV",
+      "telnum": "04646",
+      "email": "asdasd@saa.com",
+      "agree": false,
+      "contacttype": "None",
+      "message": "uhhuuh",
+      "id": 12
+    },
+    {
+      "firstname": "asdas",
+      "lastname": "asds",
+      "telnum": "015116",
+      "email": "asdasd@saa.com",
+      "agree": false,
+      "contacttype": "None",
+      "message": "lp",
+      "id": 13
+    },
+    {
+      "firstname": "asdas",
+      "lastname": "asda",
+      "telnum": "0324234",
+      "email": "asdasd@saa.com",
+      "agree": false,
+      "contacttype": "None",
+      "message": "ll",
+      "id": 14
+    },
+    {
+      "firstname": "AS",
+      "lastname": "NGNGXCV",
+      "telnum": 0,
+      "email": "asdasd@saa.com",
+      "agree": false,
+      "contacttype": "None",
+      "message": "vcvcv",
+      "id": 15
+    },
+    {
+      "firstname": "ss",
+      "lastname": "ssss",
+      "telnum": "052782",
+      "email": "hkdyu@s.com",
+      "agree": false,
+      "contacttype": "None",
+      "message": "sdcwecwe",
+      "id": 16
+    },
+    {
+      "firstname": "asdas",
+      "lastname": "asds",
+      "telnum": "055",
+      "email": "s@s.com",
+      "agree": false,
+      "contacttype": "None",
+      "message": "btrbrtbrtb",
+      "id": 17
+    },
+    {
+      "firstname": "sw",
+      "lastname": "we",
+      "telnum": "05585",
+      "email": "s@s.com",
+      "agree": false,
+      "contacttype": "None",
+      "message": "rrg g t",
+      "id": 18
+    },
+    {
+      "firstname": "asd",
+      "lastname": "sad",
+      "telnum": "023",
+      "email": "asdasqqd@s.com",
+      "agree": false,
+      "contacttype": "None",
+      "message": "asd",
+      "id": 19
+    },
+    {
+      "firstname": "asd",
+      "lastname": "asd",
+      "telnum": "03",
+      "email": "asdasd@saa.com",
+      "agree": false,
+      "contacttype": "None",
+      "message": "sad",
+      "id": 20
+    },
+    {
+      "firstname": "sd",
+      "lastname": "sd",
+      "telnum": "02",
+      "email": "asdasd@saa.com",
+      "agree": false,
+      "contacttype": "None",
+      "message": "sd",
+      "id": 21
+    },
+    {
+      "firstname": "df",
+      "lastname": "dfg",
+      "telnum": "04",
+      "email": "asdasd@saa.com",
+      "agree": false,
+      "contacttype": "None",
+      "message": "sdfd",
+      "id": 22
+    },
+    {
+      "firstname": "asd",
+      "lastname": "asd",
+      "telnum": "032",
+      "email": "asdasqqd@s.com",
+      "agree": false,
+      "contacttype": "None",
+      "message": "sa",
+      "id": 23
+    },
+    {
+      "firstname": "dsf",
+      "lastname": "sdf",
+      "telnum": "0323",
+      "email": "asdasd@saa.com",
+      "agree": false,
+      "contacttype": "None",
+      "message": "sda",
+      "id": 24
+    },
+    {
+      "firstname": "ssd",
+      "lastname": "asd",
+      "telnum": "032",
+      "email": "asdasd@s.com",
+      "agree": false,
+      "contacttype": "None",
+      "message": "sd",
+      "id": 25
+    },
+    {
+      "firstname": "qwe",
+      "lastname": "wqe",
+      "telnum": 0,
+      "email": "asdasd@s.com",
+      "agree": false,
+      "contacttype": "None",
+      "message": "qwe",
+      "id": 26
+    },
+    {
+      "firstname": "asd",
+      "lastname": "sad",
+      "telnum": 0,
+      "email": "asdasd@s.com",
+      "agree": false,
+      "contacttype": "None",
+      "message": "sadad",
+      "id": 27
+    },
+    {
+      "firstname": "eaes",
+      "lastname": "sada",
+      "telnum": "03223",
+      "email": "asdasd@saa.com",
+      "agree": false,
+      "contacttype": "None",
+      "message": "asds",
+      "id": 28
+    },
+    {
+      "firstname": "sasad",
+      "lastname": "asdwwd",
+      "telnum": "02052",
+      "email": "s@s.com",
+      "agree": null,
+      "contacttype": null,
+      "message": "ddscc",
+      "id": 29
+    },
+    {
+      "firstname": "v vdvdf",
+      "lastname": "dvdv",
+      "telnum": "03223",
+      "email": "asdasd@saa.com",
+      "agree": false,
+      "contacttype": "None",
+      "message": "fdvsdvsd",
+      "id": 30
+    },
+    {
+      "firstname": "dvdv",
+      "lastname": "vdsvds",
+      "telnum": "05456",
+      "email": "asdasd@saa.com",
+      "agree": false,
+      "contacttype": "None",
+      "message": "x zx sd ",
+      "id": 31
+    },
+    {
+      "firstname": "sad",
+      "lastname": "sd",
+      "telnum": "032",
+      "email": "asdasqqd@s.com",
+      "agree": false,
+      "contacttype": "None",
+      "message": "assa",
+      "id": 32
+    },
+    {
+      "firstname": "asda",
+      "lastname": "sads",
+      "telnum": "033",
+      "email": "asdasqqd@s.com",
+      "agree": false,
+      "contacttype": "None",
+      "message": "sad",
+      "id": 33
+    },
+    {
+      "firstname": "asda",
+      "lastname": "asda",
+      "telnum": "022",
+      "email": "asdasd@s.com",
+      "agree": false,
+      "contacttype": "None",
+      "message": "asd",
+      "id": 34
+    },
+    {
+      "firstname": "asdas",
+      "lastname": "sada",
+      "telnum": "012",
+      "email": "asdasqqd@s.com",
+      "agree": false,
+      "contacttype": "None",
+      "message": "adasd",
+      "id": 35
+    },
+    {
+      "firstname": "asd",
+      "lastname": "sad",
+      "telnum": "03",
+      "email": "asdasd@s.com",
+      "agree": false,
+      "contacttype": "None",
+      "message": "asd",
+      "id": 36
+    },
+    {
+      "firstname": "aads",
+      "lastname": "asd",
+      "telnum": "032",
+      "email": "asdasd@s.com",
+      "agree": false,
+      "contacttype": "None",
+      "message": "asd",
+      "id": 37
+    },
+    {
+      "firstname": "asdas",
+      "lastname": "NGNGXCV",
+      "telnum": "032",
+      "email": "asdasd@s.com",
+      "agree": false,
+      "contacttype": "None",
+      "message": "sf",
+      "id": 38
+    },
+    {
+      "firstname": "asd",
+      "lastname": "as",
+      "telnum": "03232",
+      "email": "asdasqqd@s.com",
+      "agree": false,
+      "contacttype": "None",
+      "message": "as",
+      "id": 39
+    },
+    {
+      "firstname": "sdf",
+      "lastname": "sdf",
+      "telnum": 0,
+      "email": "asdasd@s.com",
+      "agree": false,
+      "contacttype": "None",
+      "message": "sdf",
+      "id": 40
+    },
+    {
+      "firstname": "sad",
+      "lastname": "sad",
+      "telnum": 0,
+      "email": "asdasqqd@s.com",
+      "agree": false,
+      "contacttype": "None",
+      "message": "aS",
+      "id": 41
+    },
+    {
+      "firstname": "ad",
+      "lastname": "asd",
+      "telnum": "0333",
+      "email": "asdasd@s.com",
+      "agree": false,
+      "contacttype": "None",
+      "message": "asdda",
+      "id": 42
+    }
+  ]
+}
